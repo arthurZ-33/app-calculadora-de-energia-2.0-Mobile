@@ -4,15 +4,14 @@
 
 ## 📱 Descrição
 
-O **IMC Calculator App** permite ao usuário calcular seu Índice de Massa Corporal (IMC) com base no peso e altura informados. Ele também exibe uma mensagem indicando se o usuário está abaixo do peso, com peso normal, ou acima do peso.
+O **O app calculadora de energia**permite que usuário insira quantos watts usa, o tempo de uso e o preço por kwh assim exibindo quanto será gasto e consumido
 
 ## 🔧 Funcionalidades
 
-- [x] Entrada de dados (peso e altura)
-- [x] Cálculo do IMC
-- [x] Exibição do resultado com categorias (Abaixo do peso, Peso normal, Sobrepeso, Obesidade)
+- [x] Entrada de dados (watts, tempo de uso e kwh)
+- [x] Cálculo do de consumo e gasto e exibição dos mesmos
 - [x] Interface simples e intuitiva
-- [x]Tema claro e escuro (planejado para futuras versões)
+- []Tema claro e escuro (planejado para futuras versões)
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -29,7 +28,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/seuusuario/imc-calculator-app.git
+    git clone https://github.com/arthurZ-33/app-calculadora-de-energia-2.0--Mobile.git
 
     ```
 
@@ -49,12 +48,12 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 
 │   │   │   ├──
-java/com/example/imccalculator
+java/com/example/CalcularEnergia
 
 
 │   │   │  
 │   ├── MainActivity.java      
-# Atividade principal com cálculo do IMC
+# Atividade principal com cálculo de gasto e consumo
 
 
 │   │   │   ├──
@@ -90,7 +89,8 @@ Gradle
 
 └── README.md                               # Este arquivo
 
- 
+````
+
 ## 🎨 Design e Prototipagem
  
 A interface do app foi criada usando **ConstraintLayout** para manter a responsividade em diferentes tamanhos de tela.
@@ -100,25 +100,11 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
  ## 🖥️ Telas do Aplicativo
 
 1. **Tela Principal**
+  
+![Figura 1: Exemplo da tela principal do aplicativo](imgs/c1)
  
-Na tela principal, o usuário insere seu peso (em kg) e altura (em metros), e o app calcula e exibe o IMC.
- 
-![Figura 1: Exemplo da tela principal do aplicativo](caminho/para/a/imagem.png)
- *Figura 1: Exemplo da tela principal do aplicativo.*
  
 ## 👨‍💻 Desenvolvedores –
 
-**Seu Nome** - Desenvolvedor - [GitHub](https://github.com/seuusuario)
+**Arthur Rodrigues** - Desenvolvedor - [GitHub](https://github.com/arthurZ-33)
  
- ## 📄 Licença
- 
-
- ## 📄 Licença
-
-
- 
-
-
-Este projeto está licenciado sob os termos da licença MIT. 
-Para mais
-detalhes, veja o arquivo [LICENSE](LICENSE).
