@@ -101,7 +101,7 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
 1. **Tela Principal**
   
-![Figura 1: Exemplo da tela principal do aplicativo](imgs/c1)
+![Figura 1: Exemplo da tela principal do aplicativo](imgs/c1.png)
  
  
 ## 👨‍💻 Desenvolvedores –
